@@ -437,7 +437,7 @@ const getAngularApp = (props: Props = {}) => {
     import { ToggleSwitch } from 'primeng/toggleswitch';
     import { InputTextModule } from 'primeng/inputtext';
     import { InputNumber } from 'primeng/inputnumber';
-    import { Textarea } from 'primeng/textearea';;
+    import { TextareaModule } from 'primeng/textarea;
     import { InputGroupAddonModule } from 'primeng/inputgroupaddon';
     import { InputGroup } from 'primeng/inputgroup';
     import { InputOtp } from 'primeng/inputotp';
@@ -554,7 +554,7 @@ const getAngularApp = (props: Props = {}) => {
         InputMask,
         InputSwitchModule,
         InputTextModule,
-        Textarea,
+        TextareaModule,
         InputNumber,
         InputGroup,
         InputGroupAddonModule,
@@ -664,7 +664,7 @@ const getAngularApp = (props: Props = {}) => {
         InputMask,
         InputSwitchModule,
         InputTextModule,
-        Textarea,
+        TextareaModule,
         InputNumber,
         InputGroup,
         InputGroupAddonModule,
